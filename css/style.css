@@ -1,0 +1,7 @@
+/* debug */
+
+[class*="col-"] {
+  height: 150px;
+  background-color: green;
+  border: 1px solid black
+}
