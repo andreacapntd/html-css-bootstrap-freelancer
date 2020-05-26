@@ -112,6 +112,12 @@ header {
   text-transform: uppercase;
 }
 
+#contact .form-control {
+  border: none;
+  border-bottom: 1px solid #e9ecef;
+  box-shadow: none;
+}
+
 /* smartphone version */
 @media screen and (max-width: 768px) {
 
