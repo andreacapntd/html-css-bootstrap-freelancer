@@ -53,7 +53,7 @@ header {
   margin-bottom: 10px;
 }
 
-#jumbo hr, #portfolio hr, #about hr {
+#jumbo hr, #portfolio hr, #about hr, #contact hr {
   border: none;
   border-top: solid 3px;
   max-width: 100px;
@@ -101,6 +101,15 @@ header {
 
 #about .btn {
   margin: 40px 0;
+}
+/* contact */
+#contact {
+  margin-top: 50px;
+}
+
+#contact h2 {
+  font-size: 50px;
+  text-transform: uppercase;
 }
 
 /* smartphone version */
