@@ -29,5 +29,31 @@
 
 .navbar-default .navbar-nav li a {
   font-size: 16px;
-  font-weight: 500;
+  font-weight: 700;
+}
+
+/* jumbotron */
+#jumbo {
+  background-color: #18bc9c;
+  color: #fff;
+  padding: 60px 0;
+}
+
+#jumbo .img-responsive {
+  max-width: 250px;
+  height: auto;
+}
+
+#jumbo h1 {
+  font-size: 60px;
+  text-transform: uppercase;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+#jumbo hr {
+  border: none;
+  border-top: solid 3px;
+  max-width: 100px;
+  margin: 30px auto;
 }
