@@ -133,7 +133,6 @@ header {
 /* footer */
 /* info */
 #info {
-  height: 215px;
   background-color: #2c3e50;
   color: #fff;
 }
@@ -221,10 +220,7 @@ header {
     text-transform: uppercase;
   }
 
-  /* info */
-  #info {
-    height: 415px;
-  }
+  
 
 
 }
