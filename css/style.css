@@ -133,6 +133,7 @@ header {
 /* footer */
 /* info */
 #info {
+  height: 215px;
   background-color: #2c3e50;
   color: #fff;
 }
@@ -148,10 +149,30 @@ header {
 }
 
 #info .btn {
-  border: none;
   border-radius: 100%;
   font-size: 20px;
+}
 
+#info .btn-default {
+  color: #fff;
+  background-color: #2c3e50;
+}
+
+#info p a {
+  color: #1abc9c;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+/* copyright */
+#copyright {
+  height: 100px;
+  background-color: #1a252f;
+}
+
+#copyright small {
+  color: #fff;
+  line-height: 100px;
 }
 
 /* smartphone version */
@@ -198,6 +219,11 @@ header {
   #contact h2 {
     font-size: 25px;
     text-transform: uppercase;
+  }
+
+  /* info */
+  #info {
+    height: 415px;
   }
 
 
