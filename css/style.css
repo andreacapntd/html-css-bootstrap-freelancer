@@ -130,6 +130,7 @@ header {
   border-color: #1abc9c;
 }
 
+/* footer */
 /* info */
 #info {
   background-color: #2c3e50;
@@ -144,6 +145,13 @@ header {
 
 #info p {
   font-size: 20px;
+}
+
+#info .btn {
+  border: none;
+  border-radius: 100%;
+  font-size: 20px;
+
 }
 
 /* smartphone version */
